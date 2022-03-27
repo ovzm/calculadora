@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora QI</string>
+    <string name="label_save">Guardar Cálculo</string>
+    <string name="label_saved_calculations">Cálculos Guardados</string>
+</resources>

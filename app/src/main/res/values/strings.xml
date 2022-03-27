@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QI Calculator</string>
+    <string name="label_save">Save Calculation</string>
+    <string name="label_saved_calculations">Saved Calculations</string>
+</resources>
